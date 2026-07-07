@@ -1,0 +1,26 @@
+cff-version: 1.2.0
+message: "If you use this software, please cite the accompanying paper."
+title: "NEWMMF: training-free cellular-automata salt-and-pepper denoising (grayscale) — evaluation code"
+authors:
+  - family-names: Kong
+    given-names: Gil-Tak
+    affiliation: "Department of Mathematics, Pusan National University"
+  - family-names: Choi
+    given-names: Un-Sook
+version: "1.0.0"
+date-released: "2026-07-07"
+license: MIT
+# TODO: fill in once the repository is public
+repository-code: "https://github.com/USERNAME/REPOSITORY"
+preferred-citation:
+  type: article
+  # TODO: replace with the final paper title on acceptance
+  title: "A training-free, cellular-automata-based two-phase filter for high-density salt-and-pepper noise removal in grayscale images"
+  authors:
+    - family-names: Kong
+      given-names: Gil-Tak
+    - family-names: Choi
+      given-names: Un-Sook
+  journal: "Computers & Electrical Engineering"
+  year: 2026            # TODO: confirm on acceptance
+  # doi: "10.xxxx/xxxxx"  # TODO: add on publication
